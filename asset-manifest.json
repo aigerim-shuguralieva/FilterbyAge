@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FilterbyAge/static/css/main.e96b6900.chunk.css",
+    "main.js": "/FilterbyAge/static/js/main.cc9ec93e.chunk.js",
+    "main.js.map": "/FilterbyAge/static/js/main.cc9ec93e.chunk.js.map",
+    "runtime-main.js": "/FilterbyAge/static/js/runtime-main.5c1bbfbd.js",
+    "runtime-main.js.map": "/FilterbyAge/static/js/runtime-main.5c1bbfbd.js.map",
+    "static/js/2.9d6c5b4d.chunk.js": "/FilterbyAge/static/js/2.9d6c5b4d.chunk.js",
+    "static/js/2.9d6c5b4d.chunk.js.map": "/FilterbyAge/static/js/2.9d6c5b4d.chunk.js.map",
+    "index.html": "/FilterbyAge/index.html",
+    "static/css/main.e96b6900.chunk.css.map": "/FilterbyAge/static/css/main.e96b6900.chunk.css.map",
+    "static/js/2.9d6c5b4d.chunk.js.LICENSE.txt": "/FilterbyAge/static/js/2.9d6c5b4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c1bbfbd.js",
+    "static/js/2.9d6c5b4d.chunk.js",
+    "static/css/main.e96b6900.chunk.css",
+    "static/js/main.cc9ec93e.chunk.js"
+  ]
+}
