@@ -51,8 +51,8 @@ import pic1 from './images/1.png'
     },
      {
         name: 'Baiel',
-        age: 20,
-        country: 'Kyrgyzstan',
+        age: 17,
+        country: 'Korea',
         img:pic1
     },
      {

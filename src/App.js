@@ -17,7 +17,7 @@ export const App = () => {
           })
         case 2:
             let arr6 = users.filter((el) => {
-          return el.age <= 18 && el.country === "UAE" ;
+          return el.age <= 18 && el.country !== "Kyrgyzstan" ;
           });
           return arr6.map((el, id) => {
             return<User el={el} key={id}/>
