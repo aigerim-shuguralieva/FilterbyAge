@@ -38,9 +38,9 @@ export const App = () => {
       case 1:
        return (
           <>
-          <div>
-            <button onClick={()=> setCountry(1)}>Kyrgyzstan</button>
-            <button  onClick={() => setCountry(2)}>Foreign Counties</button>
+          <div >
+            <button className="btn-c" onClick={()=> setCountry(1)}>Kyrgyzstan</button>
+            <button  className="btn-c" onClick={() => setCountry(2)}>Foreign Counties</button>
               <div>{renderCountry()}</div>
               </div>
           </>
